@@ -24,4 +24,8 @@
 
 ##################### Question 5:
 
-# Print sum of first and second element of 
+# Employees in the company are working for certain hours. The company requires each employee to work for at least target hours.
+
+# hours_employee_has_worked = [3, 4, 5, 9, 1, 4, 1, 0] target = 2
+# Print no. of employees who haven't met the target
+
