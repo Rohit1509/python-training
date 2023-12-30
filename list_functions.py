@@ -30,3 +30,30 @@ print(l2.count(1))
 
 ######################################### 4. 'append' function #####################################################
 
+# append function is used to add elements to list
+# syntax: <list_name>.append(<element to be added to the list>)
+
+l3 = [1,1,2,3]
+l3.append(4)
+print(l3)
+
+######################################### 5. 'range' ###############################################################
+
+# 'range' function is ised to get sequence of numbers
+# syntax: range(<start_number>, <end_number>). <start_number> is an optional field. By default <start_numer> is 0.
+# range(<start_number>, <end_number>) will print values starting (<start_number>, ...., <end_number-1>)
+
+print(range(4)) # is same as # print(range(0, 4))
+# this will print values 0, 1, 2, 3.
+
+print(range(5))
+# this will print values 0, 1, 2, 3, 4
+
+######################################### 6. accessing element of the list ###############################################################
+
+# Example: Print values at index 0, 1, 2
+l3 = [48, 59, 39, 15]
+
+for element in range(3): # This will create a list [0, 1, 2] for looping
+    print(l3[element])
+    
