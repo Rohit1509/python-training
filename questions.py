@@ -29,3 +29,17 @@
 # hours_employee_has_worked = [3, 4, 5, 9, 1, 4, 1, 0] target = 2
 # Print no. of employees who haven't met the target
 
+##################### Question 6:
+
+# Create a list as follows: l4 = [5, 6, 67, 40, 100, 78, 99, 88, 1000, 783]
+# print sum of first 5 elements in the list using range function
+
+##################### Question 7:
+
+# create a list as follows: l5 = [5, 6, 67, 40, 100, 78, 99, 88, 1000, 783]
+# add following elements to the list l5 '5', '7' using append function
+# print the new list
+
+##################### Question 8:
+
+# create a list as follows: l5 = [5, 6, 67, 40, 100, 78, 99, 88, 1000, 783, 6, 7, 9, 10, 55, 45, 5, 33, 60, 77, 80, 94, 567]
