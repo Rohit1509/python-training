@@ -42,4 +42,5 @@
 
 ##################### Question 8:
 
-# create a list as follows: l5 = [5, 6, 67, 40, 100, 78, 99, 88, 1000, 783, 6, 7, 9, 10, 55, 45, 5, 33, 60, 77, 80, 94, 567]
+# create a list as follows: l6 = [5, 6, 67, 40, 100, 78, 99, 88, 1000, 783, 6, 7, 9, 10, 55, 45, 5, 33, 60, 77, 80, 94, 567]
+# print sum of alternate elements in the list.
