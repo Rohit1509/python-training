@@ -13,7 +13,7 @@ for column in data_sheet.iter_cols():
         for i, cell in enumerate(column):
             date = str(data_sheet.cell(row=i+1, column=3).value).split(' ')[0]
             if i > 0 and cell.value == 'USED' and data_sheet.cell(row=i+1, column=7).value == 'Miner' and date > '2022-01-01' and date < '2022-12-31':
-              total_miners_sold.update({data_sheet.cell(row=i+1, column=6).value:data_sheet.cell(row=i+1, column=18).value})
+              total_miners_sold.update({data_sheet.cell(row=i+1, column=1).value:data_sheet.cell(row=i+1, column=18).value})
 
 print(total_miners_sold)
 
