@@ -15,8 +15,17 @@ for column in data_sheet.iter_cols():
             if i > 0 and cell.value == 'Transformer':
               total_cables_sold.update({data_sheet.cell(row=i+1, column=6).value:data_sheet.cell(row=i+1, column=16).value})
 
+sum = 0
+
+for each_value in list(total_cables_sold.values()):
+    print(each_value)
+    if each_value == 'None' or each_value == '1.08 BTC':
+        continue
+    else:
+        sum = sum + each_value
+
 total_number_cables_sold = len(list(total_cables_sold.keys()))
-total_paybles_from_cables = sum(list(total_cables_sold.values()))
+total_paybles_from_cables = sum
 
 print(f'Total number of cables sold are {total_number_cables_sold}')
 print(f'Total paybles received from cables are {total_paybles_from_cables}')
