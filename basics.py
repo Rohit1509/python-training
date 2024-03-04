@@ -26,6 +26,8 @@ l = ['a', 'bgh', 5, 6, 6.5, 'a', 'b', True] # list
 # Set is represented in curly brackets
 set = {'a', 'b',  'c'} # set
 
+## Common question: difference between list and set ?
+
 ############################################# Mathematical operations and printing results ##########################################
 
 # Assign values to variables

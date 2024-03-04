@@ -41,9 +41,9 @@ print(sum)
 
 # 'if-else' statement is used when the action needs to be performed under certain conditions. The syntax is as follows:
 # if condition:
-#     action
+#     action1
 # else:
-#     action
+#     action2
 
 # Note: 'else' block is an optional block. If no else block is specified, it means do nothing.
 

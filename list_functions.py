@@ -74,5 +74,15 @@ l3 = [48, 59, 39, 15]
 
 for element in range(3): # This will create a list [0, 1, 2] for looping
     print(l3[element])
-   
-    
+
+# Print values at index 2, 19, 203
+
+## 'in' keyword is used to check if a certain element is present in a list
+
+l2 = [4, 5, 6, 8, 45, 89, 67, 45, 34, 6]
+
+index_at_which_element_is_to_be_printed = [2, 19, 203]
+
+for each_element in range(2,204):
+    if each_element in index_at_which_element_is_to_be_printed:
+        print(l2[each_element])
