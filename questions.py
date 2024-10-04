@@ -51,3 +51,10 @@ print(f'product of these two variables is {product}')
 
 # create a list as follows: l6 = [5, 6, 67, 40, 100, 78, 99, 88, 1000, 783, 6, 7, 9, 10, 55, 45, 5, 33, 60, 77, 80, 94, 567]
 # print sum of alternate elements in the list.
+
+##################### Question 9:
+
+#  create a list as follows: l6 = [2,2,1,1,1,2,2]
+
+# Given list l6 of len n, return the majority element.
+# The majority element is the element that appears more than ⌊n / 2⌋ times. You may assume that the majority element always exists in the array.
