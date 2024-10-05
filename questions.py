@@ -82,3 +82,7 @@ print(f'product of these two variables is {product}')
 ##################### Question 15:
 # Given a list num1 = [1,2,2,1,1,3]
 # print 'true' if the number of occurrences of each value in the list is unique or 'false' otherwise.
+
+##################### Question 16:
+# Given a list arr = [2,2,3,4]  
+# a lucky integer is an integer that has a occourence in the array equal to its value. Print the lucky number.
