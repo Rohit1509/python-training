@@ -58,3 +58,8 @@ print(f'product of these two variables is {product}')
 
 # Given list l6 of len n, return the majority element.
 # The majority element is the element that appears more than ⌊n / 2⌋ times. You may assume that the majority element always exists in the array.
+
+##################### Question 10:
+
+# create a list named as follows: nums = [1,2,3,1]
+# print 'true' if any value appears at least twice in the array, and print 'false' if every element is distinct.
