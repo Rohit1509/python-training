@@ -63,3 +63,6 @@ print(f'product of these two variables is {product}')
 
 # create a list named as follows: nums = [1,2,3,1]
 # print 'true' if any value appears at least twice in the array, and print 'false' if every element is distinct.
+
+##################### Question 11:
+# Given a list as follows: nums = [4,1,2,1,2], every element appears twice except for one. Print single one.
