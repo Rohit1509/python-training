@@ -79,3 +79,6 @@ print(f'product of these two variables is {product}')
 # Print the largest unique number in the list. You can use max() function to find largest element in the list. 
 # syntax of max() function is 'max(list_name)'.
 
+##################### Question 15:
+# Given a list num1 = [1,2,2,1,1,3]
+# print 'true' if the number of occurrences of each value in the list is unique or 'false' otherwise.
