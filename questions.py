@@ -69,3 +69,7 @@ print(f'product of these two variables is {product}')
 
 ##################### Question 12:
 # Given list: nums = [9,6,4,2,3,5,7,0,1]. print the missing element in the list from range(10)
+
+##################### Question 13:
+# Given two lists nums1 and nums2, return common elements present in both the lists.
+# nums1 = [4,9,5], nums2 = [9,4,9,8,4]
