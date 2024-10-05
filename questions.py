@@ -67,8 +67,4 @@ print(f'product of these two variables is {product}')
 ##################### Question 11:
 # Given a list as follows: nums = [4,1,2,1,2], every element appears twice except for one. Print single one.
 
-
-
-
-
 # Given list: nums = [9,6,4,2,3,5,7,0,1]. print the missing element in the list from range(10)
