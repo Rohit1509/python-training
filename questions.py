@@ -73,3 +73,9 @@ print(f'product of these two variables is {product}')
 ##################### Question 13:
 # Given two lists nums1 and nums2, return common elements present in both the lists.
 # nums1 = [4,9,5], nums2 = [9,4,9,8,4]
+
+##################### Question 14:
+# Given a list num1 = [5,6,4,8,6,7,8,0,9,4,6]. Store unique elements in list named num2. 
+# Print the largest unique number in the list. You can use max() function to find largest element in the list. 
+# syntax of max() function is 'max(list_name)'.
+
