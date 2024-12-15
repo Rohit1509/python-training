@@ -86,3 +86,7 @@ index_at_which_element_is_to_be_printed = [2, 19, 203]
 for each_element in range(2,204):
     if each_element in index_at_which_element_is_to_be_printed:
         print(l2[each_element])
+
+l = [1,3,4]
+l.sort() # sorts in ascending order)
+l.sort(reverse=True) # sorts in decending order
