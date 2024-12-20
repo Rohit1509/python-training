@@ -5,6 +5,10 @@
 # my_dict = {"name": "Alice"} 
 # my_dict.update({"age": 30}) -> add this element in dictionary
 
+### Accessing value of a particular key
+# a = {'name' :  'Alice' ,  'age' : '25'}
+# print(a['name'])
+
 ###### Extract keys from dictionary
 # keys = my_dict.keys()
 # print(keys)
