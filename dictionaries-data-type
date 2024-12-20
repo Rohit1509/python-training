@@ -1,0 +1,18 @@
+# Dictionary is a data type consisting of key-value pair. E.g. d = {d:1, r:2, t:2}. d,r,t are keys and 1,2,2 are their respective values.
+# The keys in a dictionary can't be repeated
+  
+###### Initialize a dictionary
+# my_dict = {"name": "Alice"} 
+# my_dict.update({"age": 30}) -> add this element in dictionary
+
+###### Extract keys from dictionary
+# keys = my_dict.keys()
+# print(keys)
+
+###### Extract values from dictionary
+values = my_dict.values()
+print(values)
+
+# for k,v in my_dict.items():
+  print(k)
+  print(v)
