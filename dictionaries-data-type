@@ -1,4 +1,4 @@
-# Dictionary is a data type consisting of key-value pair. E.g. d = {b:1, r:2, t:2}. d,r,t are keys and 1,2,2 are their respective values.
+# Dictionary is a data type consisting of key-value pair. E.g. d = {b:1, r:2, t:2}. b,r,t are keys and 1,2,2 are their respective values.
 # The keys in a dictionary can't be repeated
   
 ###### Initialize a dictionary
